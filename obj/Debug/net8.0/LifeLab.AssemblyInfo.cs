@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LifeLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7af84c5f61c6f869db2a2e1cd6b87ea4038d2418")]
 [assembly: System.Reflection.AssemblyProductAttribute("LifeLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LifeLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
